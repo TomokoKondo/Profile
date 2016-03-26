@@ -1,15 +1,17 @@
 body{
+  background: url(../images/kondo_tomoko.jpg);
   margin: 0;
   font-size: 14px;
 }
 
 header, footer {
-  background-color: #fff5ee;
   padding: 20px 0px 20px 15px;
   text-align: center;
+  background: rgba(245, 222, 179, 0.3);
 }
 
 header {
+  box-shadow:0px 8px 6px -7px #eee;
   font-size: 20px;
 }
 
